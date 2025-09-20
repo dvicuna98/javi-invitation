@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: process.env.NODE_ENV === 'production' ? '/leo-invitation/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/javi-invitation/' : '/',
 });

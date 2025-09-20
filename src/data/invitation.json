@@ -1,0 +1,74 @@
+{
+  "birthday": {
+    "childName": "Javier González",
+    "age": 40,
+    "photo": "assets/images/img_principal.jpeg",
+    "date": "Viernes, 26 de Septiembre ",
+    "time": "19:00 - 02:00",
+    "location": {
+      "name": "Casa de Jonathan ",
+      "address": "Cdla. Las Acacias Mz. D11 V7 ",
+      "coordinates": {
+        "lat": -2.2224139,
+        "lng": -79.9027463
+      },
+      "mapUrl": "https://maps.app.goo.gl/D31z5YZxrQqGY9h7A"
+    },
+    "rsvp": {
+      "contact": "Diana Sierra",
+      "phone": "0969414281 – 0978627368",
+      "email": "dsierra@eston.ecotec.edu.ec"
+    },
+    "theme": {
+      "colors": ["#000000", "#FFD700", "#FFFFFF", "#1A1A1A", "#F5F5F5"],
+      "primaryColor": "#FFD700"
+    }
+  },
+  "aboutMe": {
+    "title": "Acerca de Javi",
+    "description": "Conoce más sobre el cumpleañero",
+    "facts": [
+      {
+        "id": 1,
+        "icon": "🍆",
+        "title": "Frase que siempre uso",
+        "description": "Que vamos a comer"
+      },
+      {
+        "id": 2,
+        "icon": "🧧",
+        "title": "Apodo",
+        "description": "Chino 24"
+      },
+      {
+        "id": 3,
+        "icon": "🥃",
+        "title": "Bebida favorita ",
+        "description": "Coca cola y Buchanan's"
+      },
+      {
+        "id": 4,
+        "icon": "🥵",
+        "title": "Lo que me apasiona",
+        "description": "Barcelona y mi mujer"
+      },
+      {
+        "id": 5,
+        "icon": "🥚",
+        "title": "Comida favorita",
+        "description": "Seco de pollo"
+      },
+      {
+        "id": 6,
+        "icon": "🎶",
+        "title": "Canción fav",
+        "description": "Noche de entierro - Tonny Tun Tun, Daddy Yankee, Luny Tunes, Hector \"El Father\", Wisin & Yandel"
+      }
+    ]
+  },
+  "photoGallery": {
+    "driveLink": "https://drive.google.com/drive/folders/1Y7EFii_wRf3-KCoiWBWistTR4kgEsFWx",
+    "description": "¡Sube fotos del cumpleaños!",
+    "instructions": "Haz clic en el enlace de arriba para acceder a nuestro álbum. Puedes subir fotos y videos."
+  }
+}
